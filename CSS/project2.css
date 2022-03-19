@@ -310,12 +310,12 @@ body {
 }
 @media only screen and (max-width: 346px) {
   #profile-info h1 {
-    font-size: 2rem;
+    font-size: 1.9rem;
   }
 }
 @media only screen and (max-width: 341px) {
   #profile-info h1 {
-    font-size: 2rem;
+    font-size: 1.9rem;
   }
 }
 @media only screen and (max-width: 321px) {
